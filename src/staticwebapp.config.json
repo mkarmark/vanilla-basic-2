@@ -1,0 +1,6 @@
+{
+  "globalHeaders": {
+    "Content-Type": "application/json",
+    "Content-Encoding": "gzip"
+  }
+}
